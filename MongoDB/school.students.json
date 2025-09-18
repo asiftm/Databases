@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "68cb2d0167e3d89237cebea4"
+  },
+  "name": "Sponge Bob",
+  "age": 20,
+  "gpa": 3.2,
+  "fulltime": true
+},
+{
+  "_id": {
+    "$oid": "68cb2d9967e3d89237cebea5"
+  },
+  "name": "Garry",
+  "age": 20,
+  "gpa": 2.2,
+  "fulltime": true
+},
+{
+  "_id": {
+    "$oid": "68cb2d9967e3d89237cebea6"
+  },
+  "name": "Patrick",
+  "age": 21,
+  "gpa": 1.5,
+  "fulltime": false
+},
+{
+  "_id": {
+    "$oid": "68cb2d9967e3d89237cebea7"
+  },
+  "name": "Sandy",
+  "age": 19,
+  "gpa": 4,
+  "fulltime": false
+},
+{
+  "_id": {
+    "$oid": "68cb2e1124c29c692956383e"
+  },
+  "name": "Sultan",
+  "age": 22,
+  "gpa": 4,
+  "fulltime": false
+},
+{
+  "_id": {
+    "$oid": "68cb2e8767e3d89237cebea8"
+  },
+  "name": "Larry Lobster",
+  "age": 18,
+  "gpa": 2.8,
+  "fulltime": false
+},
+{
+  "_id": {
+    "$oid": "68cb306067e3d89237cebea9"
+  },
+  "name": "Sam",
+  "age": 20,
+  "gpa": 3,
+  "registerDate": {
+    "$date": "2025-09-17T22:04:16.012Z"
+  },
+  "graduationDate": null,
+  "courses": [
+    "Physics",
+    "Chemistry",
+    "Biology"
+  ],
+  "address": {
+    "street": "123 fake st.",
+    "city": "fake city",
+    "zip": 1234
+  },
+  "fulltime": true
+}]
