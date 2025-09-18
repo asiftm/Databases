@@ -1,13 +1,13 @@
-# MongoDB Python Demo
+# :memo: MongoDB + Python Demo
 
-This repository contains a simple Python project that demonstrates how to connect to MongoDB, perform basic CRUD operations, and manage a student collection. It uses **PyMongo** to interact with both local MongoDB instances and MongoDB Atlas.
+This repository contains a short and simple Python project that demonstrates how to connect to MongoDB, perform basic CRUD operations, and manage a student collection. It uses ***PyMongo*** to interact with both local ***MongoDB*** instances and ***MongoDB Atlas***.
 
 ---
 
 ## 📂 Repository Contents
 
 - `mongodb_demo.py` – Python script with full CRUD operations (insert, query, update, delete).  
-- `students.json` – Sample JSON data (optional, can be used to load student records).  
+- `students.json` – Sample JSON data (optional).  
 
 ---
 
@@ -15,9 +15,7 @@ This repository contains a simple Python project that demonstrates how to connec
 
 - Connect to MongoDB (local or Atlas cloud).  
 - Create and drop collections.  
-- Insert single or multiple student documents.  
-- Find students by name.  
-- List all students in the collection.  
+- perform basic CRUD operations 
 
 ---
 
@@ -25,9 +23,24 @@ This repository contains a simple Python project that demonstrates how to connec
 
 - Python 3.x  
 - MongoDB (local or Atlas)  
-- PyMongo library  
+- PyMongo library
+- MongoDB Compass (optional)
 
 Install PyMongo via pip:
 
 ```bash
 pip install pymongo
+```
+
+---
+
+## 💡 References
+:link: [MongoDB Official Docs](https://www.mongodb.com/docs/)
+
+:link: [PyMongo Documentation](https://pymongo.readthedocs.io/en/stable/)
+
+:link: [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
+
+
+
+
