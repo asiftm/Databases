@@ -29,9 +29,7 @@ Install dependencies via pip:
 
 ```bash
 pip install requests
----
-
----
+```
 
 ## 💡 References
 :link: [Datastax](https://www.datastax.com/)
