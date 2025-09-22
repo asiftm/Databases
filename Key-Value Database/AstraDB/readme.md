@@ -29,9 +29,7 @@ Install `requests` via pip:
 
 ```bash
 pip install requests
----
-
----
+```
 
 ## 💡 References
 :link: [GraphQL](https://graphql.org/learn/)
