@@ -15,7 +15,7 @@ db = client["school"]   # create/use a database called test_db
 collection = db["students"]   # create/use a collection called students
 
 # ----- Insert a document -----
-student = {"name": "Asif", "course": ["Data Science"], "graduationDate": datetime(2023, 6, 15)}
+student = {"name": "John", "course": ["Data Science"], "graduationDate": datetime(2023, 6, 15)}
 students = [{"name":"Patrick", "age":38, "gpa": 1.5},  
             {"name":"Sandy", "age":27, "gpa": 4.0},
             {"name":"Gary", "age":18, "gpa": 2.5}]
@@ -38,9 +38,9 @@ def insert_multiple(students):
     print("Inserted document IDs:", insert_result.inserted_ids)
 
 def find_student(name):
-  results = collection.find({"name": name})
-  for doc in results:
-      print(doc)
+    results = collection.find({"name": name})
+    for doc in results:
+        print(doc)
 
 def all_students():
     for doc in collection.find():
