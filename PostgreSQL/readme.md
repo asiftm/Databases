@@ -2,12 +2,6 @@
 
 This project analyzes job postings and skills data using **PostgreSQL**.  
 It includes CSV datasets, SQL scripts for database setup, and queries to extract valuable insights about jobs, companies, and skills.
-
----
-
-## 📂 Project Structure
-
-
 ---
 
 ## 🗂 Datasets
