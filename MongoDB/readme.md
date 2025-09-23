@@ -41,6 +41,7 @@ pip install pymongo
 
 :link: [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
 
+:link: [BroCode Youtube Tutorial](https://www.youtube.com/watch?v=c2M-rlkkT5o&t=3481s)
 
 
 

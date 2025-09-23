@@ -40,4 +40,6 @@ pip install requests
 
 :link: [Astra DB Serverless](https://docs.datastax.com/en/astra-db-serverless/index.html)
 
+:link: [FreeCodeCamp Youtube Tutorial](https://youtu.be/xh4gy1lbL2k?si=_00BhbDIdw-TnhDF)
+
 
