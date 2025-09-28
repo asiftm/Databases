@@ -40,6 +40,6 @@ The queries in **project_sql/** provide insights such as:
 
 
 ## 💡 References
-:link: [Initial data](initial-data.cypher)
+:link: [Initial data](initial_data.cypher)
 
 :link: [Luke Barousse Youtube Tutorial](https://www.youtube.com/watch?v=7mz73uXD9DA&t=661s)
