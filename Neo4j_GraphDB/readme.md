@@ -11,7 +11,7 @@ This project show how to get start with ***Neo4j*** and ***Cypher*** query langu
 4. Copy and paste initial data to setup the database with information about NBA players, teams and coaches.
 👉 :link: [Initial data](initial_data.cypher)
 5. Run these queries to explore the data and features of  ***Neo4j***
-👉 :link: [Example Query](initial_data.cypher)
+👉 :link: [Example Query](example_query.cypher).
 6. All the queries and actual data are from 👉 :link: [Laiture Academy Github](https://github.com/harblaith7/Neo4j-Crash-Course/tree/main)
 
 ## 💡 References
