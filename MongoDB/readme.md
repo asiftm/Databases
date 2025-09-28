@@ -1,6 +1,6 @@
 # :memo: MongoDB + Python Demo
 
-This repository contains a short and simple Python project that demonstrates how to connect to MongoDB, perform basic CRUD operations, and manage a student collection. It uses ***PyMongo*** to interact with both local ***MongoDB*** instances and ***MongoDB Atlas***.
+This repository contains a short and simple ***Python*** project that demonstrates how to connect to ***MongoDB***, perform basic CRUD operations, and manage a student collection. It uses ***PyMongo*** to interact with both local ***MongoDB*** instances and ***MongoDB Atlas***.
 
 ---
 
