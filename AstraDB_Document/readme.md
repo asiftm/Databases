@@ -4,12 +4,12 @@ This repository contains a simple Python project that demonstrates how to connec
 
 ---
 
-## 📂 Repository Contents
+## :open_file_folder: Repository Contents
 
 - `document_demo.py` – Python script with few operations.  
 ---
 
-## 🛠️ Features
+## :hammer_and_wrench: Features
 
 - Connect to Astra DB using the Document API (JSON API).  
 - Create and manage a collection.  
@@ -18,7 +18,7 @@ This repository contains a simple Python project that demonstrates how to connec
 
 ---
 
-## ⚡ Requirements
+## :zap: Requirements
 
 - Python 3.x  
 - Astra DB account + running database  
@@ -31,7 +31,7 @@ Install dependencies via pip:
 pip install requests
 ```
 ---
-## ⚙️ Setup Instructions
+## :gear: Setup Instructions
 1. Sign up using the official website [Datastax AstraDB](https://astra.datastax.com/signup)
 2. Create a database using a free cloud provider and region.
 3. It will take a moment to initialize a database.
@@ -49,7 +49,7 @@ describe keyspaces; //to view all keyspaces
 
 ---
 
-## 💡 References
+## :bulb: References
 :link: [Datastax](https://www.datastax.com/)
 
 :link: [Cassandra Query Language](https://cassandra.apache.org/doc/4.0/cassandra/cql/index.html)

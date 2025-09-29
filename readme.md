@@ -1,8 +1,8 @@
-# Databases Project
+# :clipboard: Databases Project
 
 This repository contains code and documentation for the **Databases** project.
 
-## Table of Contents
+## :page_with_curl: Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -10,11 +10,11 @@ This repository contains code and documentation for the **Databases** project.
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 
-## Overview
+## :page_facing_up: Overview
 
 This project demonstrates database concepts, including data modeling, querying, and integration with applications. It is intended for educational and practical purposes.
 
-## Features
+## :rocket: Features
 
 - Database schema design
 - CRUD operations
@@ -22,12 +22,12 @@ This project demonstrates database concepts, including data modeling, querying, 
 - Integration with application code
 - Documentation and examples
 
-## Technologies Used
+## :electric_plug: Technologies Used
 
 - Database System (e.g., *MongoDB*, *PostgreSQL*, *AstraDB*, *Neo4j* etc.)
-- Programming Language (e.g., *Python*)
+</> Programming Language (e.g., *Python*)
 
-## Setup Instructions
+## :gear: Setup Instructions
 
 1. Clone the repository:
   ```
@@ -36,7 +36,7 @@ This project demonstrates database concepts, including data modeling, querying, 
 2. Install dependencies as required (see project files for details).
 3. Set up the database using provided scripts.
 
-## Usage
+## :white_check_mark: Usage
 
 - Follow the instructions on each directory to setup the database.
 - Use the provided SQL scripts to create and populate the database.

@@ -4,7 +4,7 @@ This project analyzes job postings and skills data using **PostgreSQL**.
 It includes CSV datasets, SQL scripts for database setup, and queries to extract valuable insights about jobs, companies, and skills.
 ---
 
-## 🗂 Datasets
+## :open_file_folder: Datasets
 
 - **company_dim.csv** → Information about companies.
 - **job_postings_fact.csv** → Job postings with details like title, salary, and location.
@@ -13,15 +13,14 @@ It includes CSV datasets, SQL scripts for database setup, and queries to extract
 
 ---
 
-## ⚙️ Setup Instructions
+## :gear: Setup Instructions
 
 1. Install PostgreSQL
-Download the installer from the official website:  
-👉 [PostgreSQL Downloads](https://www.postgresql.org/download/)  
+Download the installer from the official website: :link: [PostgreSQL Downloads](https://www.postgresql.org/download/) .
 Follow the wizard and remember the username/password you set.
 
-2. Open PostgreSQL and run the scripts in **sql_load/**:
-   - `1_create_database.sql` → Creates the database.
+2. Open PostgreSQL and run the scripts in [sql_load](./sql_load/):
+   - [1_create_database.sql](./sql_load/1_create_database.sql) → Creates the database.
    - `2_create_tables.sql` → Creates necessary tables.
    - `3_modify_tables.sql` → Adjusts schemas (constraints, indexes, etc.).
 
@@ -29,7 +28,7 @@ Follow the wizard and remember the username/password you set.
 
 ---
 
-## 📊 Analysis Queries
+## :bar_chart: Analysis Queries
 
 The queries in **project_sql/** provide insights such as:
 
@@ -40,7 +39,7 @@ The queries in **project_sql/** provide insights such as:
 - `5_optimal_skills.sql` → Best combination of skills to learn for career growth.
 
 ---
-## 💡 References
+## :bulb: References
 :link: [PostgreSQL](https://www.postgresql.org/)
 
 :link: [Luke Barousse Youtube Tutorial](https://www.youtube.com/watch?v=7mz73uXD9DA&t=661s)

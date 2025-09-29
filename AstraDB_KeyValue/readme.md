@@ -5,13 +5,13 @@ It includes basic operations such as insert (upsert), query by key, query all ke
 
 ---
 
-## 📂 Repository Contents
+## :open_file_folder: Repository Contents
 
-- `kv_graphql.py` – Python script demonstrating GraphQL operations on a Key-Value table.  
+- :link: [kv_graphql.py](kv_graphql.py) – Python script demonstrating GraphQL operations on a Key-Value table.  
 
 ---
 
-## 🛠️ Features
+## :hammer_and_wrench: Features
 
 - Insert or upsert key-value pairs.
 - Query a value by its key.
@@ -20,7 +20,7 @@ It includes basic operations such as insert (upsert), query by key, query all ke
 
 ---
 
-## ⚡ Requirements
+## :zap: Requirements
 
 - Python 3.x  
 - `requests` library
@@ -31,7 +31,7 @@ Install `requests` via pip:
 pip install requests
 ```
 ---
-## ⚙️ Setup Instructions
+## :gear: Setup Instructions
 1. Sign up using the official website [Datastax AstraDB](https://astra.datastax.com/signup)
 2. Create a database using a free cloud provider and region.
 3. It will take a moment to initialize a database.
@@ -47,7 +47,7 @@ describe keyspaces; //to view all keyspaces
 6. Use **Connect** tab to explore options of connecting to the database.
 7. Use secrets from token generation step to connect this database with :link: [kv_graphql.py](kv_graphql.py).
 ---
-## 💡 References
+## :bulb: References
 :link: [GraphQL](https://graphql.org/learn/)
 
 :link: [Datastax](https://www.datastax.com/)

@@ -4,14 +4,14 @@ This repository contains a short and simple ***Python*** project that demonstrat
 
 ---
 
-## 📂 Repository Contents
+## :open_file_folder: Repository Contents
 
 - `mongodb_demo.py` – Python script with full CRUD operations (insert, query, update, delete).  
 - `students.json` – Sample JSON data (optional).  
 
 ---
 
-## 🛠️ Features
+## :hammer_and_wrench: Features
 
 - Connect to MongoDB (local or Atlas cloud).  
 - Create and drop collections.  
@@ -19,7 +19,7 @@ This repository contains a short and simple ***Python*** project that demonstrat
 
 ---
 
-## ⚡ Requirements
+## :zap: Requirements
 
 - Python 3.x  
 - MongoDB (local or Atlas)  
@@ -32,7 +32,7 @@ Install PyMongo via pip:
 pip install pymongo
 ```
 
-## ⚙️ Setup Instructions
+## :gear: Setup Instructions
 1. Download and install [MongoDB Community Server](https://www.mongodb.com/try/download/community).
 2. Download and install [MongoDB Compass](https://www.mongodb.com/products/tools/compass), the **GUI** for **MongoDB**
 3. Open **MongoDB Compass** and use an exting connection or create a new connection.
@@ -41,15 +41,15 @@ pip install pymongo
 6. Import :link: [Student JSON Data](school.students.json) into the collection or copy the :link: [Student JSON Data](school.students.json) file and paste.
 7. Use **MongoDB Compass GUI** to explore the data.
 
-👉 :link: [MongoDB Official Docs](https://www.mongodb.com/docs/)
+- :link: [MongoDB Official Docs](https://www.mongodb.com/docs/)
 
-👉 :link: [MongoDB Query Documents](https://www.mongodb.com/docs/manual/tutorial/query-documents/)
+- :link: [MongoDB Query Documents](https://www.mongodb.com/docs/manual/tutorial/query-documents/)
 
 8. Use your connection host URL to connect this database with :link: [mongodb_demo.py](mongodb_demo.py).
 
 ---
 
-## 💡 References
+## :bulb: References
 :link: [MongoDB Official Docs](https://www.mongodb.com/docs/)
 
 :link: [PyMongo Documentation](https://pymongo.readthedocs.io/en/stable/)
