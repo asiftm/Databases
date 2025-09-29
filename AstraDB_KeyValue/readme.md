@@ -30,7 +30,7 @@ Install `requests` via pip:
 ```bash
 pip install requests
 ```
-
+---
 ## ⚙️ Setup Instructions
 1. Sign up using the official website [Datastax AstraDB](https://astra.datastax.com/signup)
 2. Create a database using a free cloud provider and region.
@@ -45,8 +45,8 @@ describe keyspaces; //to view all keyspaces
 - :link: [cqlsh: the CQL shell](https://cassandra.apache.org/doc/latest/cassandra/managing/tools/cqlsh.html)
 
 6. Use **Connect** tab to explore options of connecting to the database.
-7. Use secrets from token generation step to connect this database with :link: [Python demo](kv_graphql.py).
-
+7. Use secrets from token generation step to connect this database with :link: [kv_graphql.py](kv_graphql.py).
+---
 ## 💡 References
 :link: [GraphQL](https://graphql.org/learn/)
 

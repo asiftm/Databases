@@ -32,6 +32,21 @@ Install PyMongo via pip:
 pip install pymongo
 ```
 
+## ⚙️ Setup Instructions
+1. Download and install [MongoDB Community Server](https://www.mongodb.com/try/download/community).
+2. Download and install [MongoDB Compass](https://www.mongodb.com/products/tools/compass), the **GUI** for **MongoDB**
+3. Open **MongoDB Compass** and use an exting connection or create a new connection.
+4. Create a database in the connection.
+5. Create a collection in the database.
+6. Import :link: [Student JSON Data](school.students.json) into the collection or copy the :link: [Student JSON Data](school.students.json) file and paste.
+7. Use **MongoDB Compass GUI** to explore the data.
+
+👉 :link: [MongoDB Official Docs](https://www.mongodb.com/docs/)
+
+👉 :link: [MongoDB Query Documents](https://www.mongodb.com/docs/manual/tutorial/query-documents/)
+
+8. Use your connection host URL to connect this database with :link: [mongodb_demo.py](mongodb_demo.py).
+
 ---
 
 ## 💡 References

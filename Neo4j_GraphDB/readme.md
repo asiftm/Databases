@@ -13,7 +13,7 @@ This project show how to get start with ***Neo4j*** and ***Cypher*** query langu
 5. Run these queries to explore the data and features of  ***Neo4j***
 👉 :link: [Example Query](example_query.cypher).
 6. All the queries and actual data are from 👉 :link: [Laiture Academy Github](https://github.com/harblaith7/Neo4j-Crash-Course/tree/main)
-
+---
 ## 💡 References
 
 :link: [Neo4j Cypher Manual](https://neo4j.com/docs/cypher-manual/current/introduction/)

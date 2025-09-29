@@ -39,7 +39,7 @@ The queries in **project_sql/** provide insights such as:
 - `4_top_paying_skills.sql` → Skills that lead to high-paying opportunities.
 - `5_optimal_skills.sql` → Best combination of skills to learn for career growth.
 
-
+---
 ## 💡 References
 :link: [PostgreSQL](https://www.postgresql.org/)
 
